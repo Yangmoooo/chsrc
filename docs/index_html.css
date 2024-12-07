@@ -1,8 +1,8 @@
 h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
-a { color:#5D5D9E; } 
-a:visited { color:#5D5D9E; } 
-a:active { color:#5C615E; } 
-a:hover { color:#B2B3B4; } 
+a { color:#5D5D9E; }
+a:visited { color:#5D5D9E; }
+a:active { color:#5C615E; }
+a:hover { color:#B2B3B4; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_3e575098 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:413px; max-width:100%; background-color:#FFFFFF; background-image: url(image/chsrc.png); background-position:center left; background-size:cover;  }
@@ -25,7 +25,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle7 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FF8080;  }
 .textstyle8 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#000000;  }
 .textstyle9 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF;  }
-#text_6d1ec1f3 { position:absolute; left:34%; top:50%; width:570px; height:51px; background:none;  }
+#text_6d1ec1f3 { position:absolute; left:27%; top:52%; width:800px; height:51px; background:none;  }
 .textstyle10 { font-size:18pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FF8040;  }
 #container_7c6af539 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:299px; max-width:100%; background-color:rgba(35, 35, 35, 0.898039);  }
 #container_7c6af539_padding { margin: 10px; display: block;  }
